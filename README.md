@@ -52,9 +52,6 @@ Daily Scrum: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsa
 Sprint board update: https://trello.com/c/czCpkgXq
 
 Ürün Durumu: Basic seviyede, https://trello.com/c/czCpkgXq
-![WhatsApp Image 2022-05-21 at 13 40 05 (1)](https://user-images.githubusercontent.com/104437382/169877276-a11e8635-5ddd-43cd-8042-9be2fe63f567.jpeg)                
-![WhatsApp Image 2022-05-21 at 13 40 05](https://user-images.githubusercontent.com/104437382/169877292-e727c2c9-6cf0-4a55-9e76-2ab5d581ffc4.jpeg)
-
 
 Sprint Review: Alınan kararlar: Veritabanının nasıl oluşturulması ve kullanılması gerektiğine karar verilmiştir. Ekstra koyulması gereken özellikler belirlenmiştir.
 
@@ -83,6 +80,8 @@ Daily Scrum: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsa
 Sprint board update: https://trello.com/c/czCpkgXq
 
 Ürün Durumu: Değişen ara yüzü ve logo tasarımları ile Basic seviyede, https://trello.com/c/czCpkgXq
+![WhatsApp Image 2022-05-21 at 13 40 05 (1)](https://user-images.githubusercontent.com/104437382/169877276-a11e8635-5ddd-43cd-8042-9be2fe63f567.jpeg)                
+![WhatsApp Image 2022-05-21 at 13 40 05](https://user-images.githubusercontent.com/104437382/169877292-e727c2c9-6cf0-4a55-9e76-2ab5d581ffc4.jpeg)
 
 Sprint Review: Alınan kararlar: Ürün adının değiştirilmesine karar verilmiştir. Ürünün hitap eden kullanıcı ihtiyacı göz önünde bulundurarak her fikrin önemli olduğu mottosu ile ürünü ortaya çıkarmaya karar verilmiştir.
 
