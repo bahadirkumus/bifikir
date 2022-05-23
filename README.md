@@ -90,6 +90,7 @@ Sprint Retrospective:
 Takım içindeki görev dağılımıyla ilgili yeni bir düzenleme yapılması kararı alınmalı
 Tahmin puanların kişi dağılımı gözden geçirilmeli ve sprint planlama toplantı katılım çoğunluğu artmalı, gerekli geri bildirimlerin developer'lar tarafından verildiğine emin olunmalı
 Ara yüz geliştirme için harcanan efor arttırılmalı ve backloglara verilen ağırlık arttırılmalı
+
 -Diğer Notlar:
 
 N/A
