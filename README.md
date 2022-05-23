@@ -17,7 +17,8 @@ Takım 69
 
 ## Ürün Açıklaması
 
-- Girişimci ve yatırımcıları bir araya getirip, birbirleriyle daha verimli iletişim kurmasını sağlıyacağız. İçerisinde girişimcilere ve yatırımcılara ayrı giriş sağlayan uygulamamız birbirine uygun olan girişimci ve yatırımcıları bir araya gelmesini sağlayacak. Aynı zamanda mentörlük ve diğer kısımlar için yardımlarda içerecek.
+- İnsanların günlük yaşantısında akıllarına sayısız fikir gelir. Bazen bu fikirleri önemseyip not alırız ama çoğu zaman umursamayız. Fakat aklınıza gelen bi fikir çok iyi  bir girişim projesi olabilir. Bu yüzden uygulamamızın ismini bi fikir olarak değiştirmiş bulunuyoruz. Bi fikri olan girişimciler ve yatırımcıları buluşturmayı hedefliyoruz.
+- Girişimci ve yatırımcıları bir araya getirip, birbirleriyle daha verimli iletişim kurmasını sağlayacağız. İçerisinde girişimcilere ve yatırımcılara ayrı giriş sağlayan uygulamamız birbirine uygun olan girişimci ve yatırımcıları bir araya gelmesini sağlayacak. Aynı zamanda mentörlük ve diğer kısımlar için yardımlarda içerecek.
 ## Ürün Özellikleri
 
 - Girişimcileri alanlarına göre ayırma, 
@@ -32,7 +33,7 @@ Takım 69
 -  Büyük bütçe hedefleyen girişimciler
 
 
-roduct Backlog URL
+Product Backlog URL
 https://trello.com/b/i2MgIreM/entreinves
 
 Sprint 1
