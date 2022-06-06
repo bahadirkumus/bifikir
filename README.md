@@ -75,9 +75,10 @@ Puan tamamlama mantığı: Son sprintte gerekli puanın tamamlanması hedeflenmi
 
 Ürün Durumu: Bitmiş seviyede, https://trello.com/c/czCpkgXq
 
-Ürün Durumu: Değişen ara yüzü ve logo tasarımları ile Basic seviyede, https://trello.com/c/czCpkgXq 
 j![WhatsApp Image 2022-05-21 at 13 40 05](https://user-images.githubusercontent.com/104437382/169894780-0df137ca-a1f7-469a-9213-3220663e0d9f.jpeg)
 ![WhatsApp Image 2022-05-21 at 13 40 05 (1)](https://user-images.githubusercontent.com/104437382/169894791-3f14c984-5dca-4a29-a9fd-399913689a56.jpeg)
+<img width="407" alt="Ekran Resmi 1" src="https://user-images.githubusercontent.com/105245086/172233750-19b7a633-72ba-4137-97d1-e1042e87046d.png">
+<img width="411" alt="Ekran Resmi 2" src="https://user-images.githubusercontent.com/105245086/172233773-8fe52625-24e4-43bc-86eb-81ec3c7487a5.png">
 
 Sprint Review: Alınan kararlar: Ürün adının değiştirilmesine karar verilmiştir. Ürünün hitap eden kullanıcı ihtiyacı göz önünde bulundurarak her fikrin önemli olduğu mottosu ile ürünü ortaya çıkarmaya karar verilmiştir.
 
