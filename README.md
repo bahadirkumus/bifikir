@@ -67,6 +67,14 @@ Daily Scrum: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsa
 
 Sprint board update: https://trello.com/c/czCpkgXq
 
+Sprint 3 Sprint Notları: Ürünün iç tasarımı ve detay sayfaları eklenerek uygulama bitirilmiştir.
+
+Sprint içinde tamamlanması tahmin edilen puan: 180 Puan
+
+Puan tamamlama mantığı: Son sprintte gerekli puanın tamamlanması hedeflenmiştir.
+
+Ürün Durumu: Bitmiş seviyede, https://trello.com/c/czCpkgXq
+
 Ürün Durumu: Değişen ara yüzü ve logo tasarımları ile Basic seviyede, https://trello.com/c/czCpkgXq 
 j![WhatsApp Image 2022-05-21 at 13 40 05](https://user-images.githubusercontent.com/104437382/169894780-0df137ca-a1f7-469a-9213-3220663e0d9f.jpeg)
 ![WhatsApp Image 2022-05-21 at 13 40 05 (1)](https://user-images.githubusercontent.com/104437382/169894791-3f14c984-5dca-4a29-a9fd-399913689a56.jpeg)
